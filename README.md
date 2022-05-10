@@ -26,7 +26,7 @@ Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build a Produ
 > - User Story #9: The #email input field should have > - placeholder text to let the user know what the field is for.
 > - User Story #10: The #email input field uses HTML5 validation to confirm that the entered text is an email address.
 > - User Story #11: Within the form, there is a submit input with a corresponding id="submit".
-> - User Story #12: When I click the #submit element, the email is submitted to a static page (use this mock [_URL_] (https://www.freecodecamp.com/email-submit)).
+> - User Story #12: When I click the #submit element, the email is submitted to a static page (use this mock [_URL_] (https://www.freecodecamp.com/email-submit) ).
 > - User Story #13: The navbar should always be at the top of the viewport.
 > - User Story #14: My product landing page should have at least one media query.
 > - User Story #15: My product landing page should utilize CSS flexbox at least once.
